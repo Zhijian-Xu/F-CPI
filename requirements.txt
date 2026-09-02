@@ -1,0 +1,10 @@
+numpy==1.21.6
+torch==1.10.2
+tqdm==4.66.5
+rdkit-pypi==2022.9.5
+lmdb==1.3.0
+tape-proteins==0.5
+Flask==2.2.5
+Flask-SQLAlchemy==3.0.5
+SQLAlchemy==2.0.31
+Werkzeug==2.2.3
